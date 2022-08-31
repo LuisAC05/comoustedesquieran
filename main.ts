@@ -1,4 +1,5 @@
+basic.showIcon(IconNames.SmallDiamond)
 basic.forever(function () {
-    basic.showIcon(IconNames.Heart)
-    basic.showIcon(IconNames.SmallHeart)
+    basic.showIcon(IconNames.Square)
+    basic.showIcon(IconNames.Sword)
 })
